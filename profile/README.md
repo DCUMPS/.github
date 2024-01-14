@@ -1,12 +1,11 @@
-## Hi there 👋
+# DCU Media Production Society
 
-<!--
+DCU’s Media Production Society was founded in 1985, with the aim of operating as a creative and social outlet to a broad variety of students within the university. Composed of three strands, MPS offers the opportunity for its members to gain practical experience in their chosen field of media and collaborate with other, like-minded creatives. Over our 38 years of experience, MPS has thrived across the board, winning a variety of awards at both a University and a National level.
 
-**Here are some ideas to get you started:**
+DCUtv offers members the opportunity to fully immerse themselves in the world of visual media. DCUtv not only encourages all MPS members to create video content, but also to gain hands-on experience in the more technical aspects of video production. Through annual events run by our TV team, such as the DCUtv 24 hour broadcast, MPS offers the chance to our members to come together and create, catering to all experience levels and interests, both in front of and behind the camera. In 2023, our DCUtv Team won “Best Promotional Video” at the BICS, which are the National Society Awards.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+DCUfm is Ireland’s Best Student Radio Station. DCUfm is run by our members and their wonderful ideas - you give us your concept and we show you how to take it on air. Additionally, our fantastic podcasting equipment allows members to continue their audio endeavours outside of the studio. DCUfm instils a profound love for audio creation in all of its members, with many of the station’s alumni currently working in stations such as Spin 103.8, Newstalk and FM104.
+
+The College View is DCU’s student newspaper. TCV offers members a way to enhance their writing skills and explore different types of journalism - from hard news to wacky satire, from the latest sports scores to reviewing what’s in the cinema. Stories are published online on www.thecollegeview.com. There’s opportunities to attend and cover events across campus and outside DCU - with the Editorial Team always looking for writers to give their own edge on what’s going on in the University.
+
+After 38 years, thousands of members, (and not to mention a global pandemic), MPS continues to grow in numbers and talent year on year. This year, our passionate and dedicated Committee aims to see MPS succeed and function at the highest possible level, with weekly events, workshops and activities for all of our members. MPS seeks to present exciting opportunities to our members, both creatively and socially, and foster the immense potential within DCU students. We hope to continue to do so as we move forward in years to come. 
